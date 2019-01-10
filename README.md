@@ -1,3 +1,1 @@
-# decryptoo
-
-[Words](words.html)
+decryptoo.github.io
